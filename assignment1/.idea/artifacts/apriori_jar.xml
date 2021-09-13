@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="apriori:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/apriori_jar</output-path>
+    <root id="archive" name="apriori.jar">
+      <element id="module-output" name="apriori" />
+    </root>
+  </artifact>
+</component>
